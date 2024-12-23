@@ -7,21 +7,16 @@
 ## Funciones Principales  
 
 ### 1. **Generación Rápida de Contraseñas**  
-🌀 Genera contraseñas al azar en segundos.  
-⚙ Personaliza la longitud y los caracteres permitidos.  
+🌀 - Genera contraseñas al azar en segundos.  
+⚙  - Personaliza la longitud y los caracteres permitidos.  
 
 ### 2. **Flexibilidad Total**  
-🔢 Escoge incluir solo letras, números o todo mezclado.  
-🔒 Mejora tu seguridad con contraseñas únicas.  
+🔢 - Escoge incluir solo letras, números o todo mezclado.  
+🔒 - Mejora tu seguridad con contraseñas únicas.  
 
 ### 3. **Interfaz Simple y Efectiva**  
-📈 Visualización clara de resultados.  
-✨ ¡Sin complicaciones, solo contraseñas seguras!  
-
-## Requisitos  
-
-- Python 3.x  
-- Archivo `requirements.txt`  
+📈 - Visualización clara de resultados.  
+✨ - ¡Sin complicaciones, solo contraseñas seguras!  
 
 ## Instalación  
 
