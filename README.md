@@ -6,15 +6,15 @@
 
 ## Funciones Principales ⌨️
 
-### 1. **Generación Rápida de Contraseñas**  
+###  **Generación Rápida de Contraseñas**  
 🌀 - Genera contraseñas al azar en segundos.  
 ⚙  - Personaliza la longitud y los caracteres permitidos.  
 
-### 2. **Flexibilidad Total**  
+### **Flexibilidad Total**  
 🔢 - Escoge incluir solo letras, números o todo mezclado.  
 🔒 - Mejora tu seguridad con contraseñas únicas.  
 
-### 3. **Interfaz Simple y Efectiva**  
+### **Interfaz Simple y Efectiva**  
 📈 - Visualización clara de resultados.  
 ✨ - ¡Sin complicaciones, solo contraseñas seguras!  
 
