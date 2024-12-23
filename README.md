@@ -1,10 +1,10 @@
 # 🌟 Generador de Contraseñas Divertido y Seguro  
 
-## Descripción  
+## Descripción  ⚙️
 
 ¡Crea contraseñas únicas y seguras en un abrir y cerrar de ojos! Este generador de contraseñas en la terminal te permite generar contraseñas personalizadas con una variedad de caracteres como letras, números y símbolos especiales. 🎉  
 
-## Funciones Principales  
+## Funciones Principales ⌨️
 
 ### 1. **Generación Rápida de Contraseñas**  
 🌀 - Genera contraseñas al azar en segundos.  
@@ -18,20 +18,20 @@
 📈 - Visualización clara de resultados.  
 ✨ - ¡Sin complicaciones, solo contraseñas seguras!  
 
-## Instalación  
+## Instalación  🗂️
 
-1. Clona el proyecto:  
+• Clona el proyecto:  
    ```bash  
    git clone https://tu-repositorio-url.git  
    cd generador-contrasenas  
    ```  
 
-2. Instala los paquetes desde `requirements.txt`:  
+• Instala los paquetes desde `requirements.txt`:  
    ```bash  
    pip install -r requirements.txt  
    ```  
 
-3. Ejecuta el generador:  
+• Ejecuta el generador:  
    ```bash  
    python generador_contrasenas.py  
    ```  
