@@ -26,7 +26,7 @@
    cd generador-contrasenas  
    ```  
 
-• Instala los paquetes desde 
+• Instala los paquetes desde:
    ```bash  
    pip install -r requirements.txt  
    ```  
