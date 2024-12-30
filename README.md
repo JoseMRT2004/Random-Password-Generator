@@ -1,8 +1,8 @@
-# 🌟 Generador de Contraseñas Divertido y Seguro  
+# 🌟 Generador de Contraseñas Divertido y Seguro.
 
 ## Descripción  ⚙️
 
-¡Crea contraseñas únicas y seguras en un abrir y cerrar de ojos! Este generador de contraseñas en la terminal te permite generar contraseñas personalizadas con una variedad de caracteres como letras, números y símbolos especiales. 🎉  
+¡Crea contraseñas únicas y seguras en un abrir y cerrar de ojos! Este generador de contraseñas en la terminal te permite generar contraseñas personalizadas con una variedad de caracteres como letras, números y símbolos especiales. 🎉 
 
 ## Funciones Principales ⌨️
 
@@ -26,7 +26,7 @@
    cd generador-contrasenas  
    ```  
 
-• Instala los paquetes desde `requirements.txt`:  
+• Instala los paquetes desde 
    ```bash  
    pip install -r requirements.txt  
    ```  
