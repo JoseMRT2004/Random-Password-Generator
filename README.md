@@ -8,7 +8,6 @@
    - [Exportación de Contraseñas](#exportación-de-contraseñas)
 3. [Requisitos](#requisitos)
 4. [Instalación](#instalación)
-5. [Cómo Usar](#cómo-usar)
 6. [Contribuciones](#contribuciones)
 7. [Arquitectura](#arquitectura)
 
