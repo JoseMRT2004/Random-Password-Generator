@@ -1,6 +1,5 @@
-# 🌟 **Generador de Contraseñas Seguras y Personalizadas** - Crea contraseñas fuertes y fáciles de recordar
+# 🌟 **Generador de Contraseñas Seguras y Personalizadas** 
 
-## **Índice**
 1. [Descripción](#descripción)
 2. [Funciones Principales](#funciones-principales)
    - [Generación Rápida y Personalizada](#generación-rápida-y-personalizada)
