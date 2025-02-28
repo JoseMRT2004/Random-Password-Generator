@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # 🌟 **Generador de Contraseñas Seguras y Personalizadas** - Crea contraseñas fuertes y fáciles de recordar
 
 ## **Índice**
@@ -65,7 +63,7 @@ Random-Password-Generator/
 │   ├── generador.py
 │   ├── verificador.py
 │   ├── interfaz.py
-│── main.py
+│   │── main.py
 │── README.md          # Documentación del proyecto
 │── requirements.txt          
 ```
