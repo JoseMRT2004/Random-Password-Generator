@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # 🌟 **Generador de Contraseñas Seguras y Personalizadas** - Crea contraseñas fuertes y fáciles de recordar
 
@@ -90,4 +91,3 @@ Random-Password-Generator/
 5. Abre un **Pull Request** en GitHub para que revisemos tus mejoras.
 
 </details>
-
